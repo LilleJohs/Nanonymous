@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78131505763",
+    "firebase_url": "https://nanonymous-21d6a.firebaseio.com",
+    "project_id": "nanonymous-21d6a",
+    "storage_bucket": "nanonymous-21d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78131505763:android:68bb5095ab3b5649",
+        "android_client_info": {
+          "package_name": "com.lillejohs.nanonymouspoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78131505763-fn2aemf6bst8217t8p3p7nkabe5pe09m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DG4cq2X9Mg5ZgPfSpZNAu_oz04oxRA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78131505763-fn2aemf6bst8217t8p3p7nkabe5pe09m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
